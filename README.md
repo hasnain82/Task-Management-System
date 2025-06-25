@@ -20,3 +20,12 @@ A console-based **multi-user Task Management System** built using **Core Java**.
 - File I/O (BufferedReader, BufferedWriter, FileReader, FileWriter)
 - Collections (`ArrayList`)
 - Command Line Interface (CLI)
+
+---
+
+## output 
+
+![image](https://github.com/user-attachments/assets/c43e7a24-d8ee-4801-b312-8c816b73b249)
+
+
+![image](https://github.com/user-attachments/assets/3422f532-cf8b-4bd4-b4e0-e7a569cb58b1)
